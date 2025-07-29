@@ -7,7 +7,7 @@
 <p align="center">
   <strong>El Sistema Operativo de Punto de Venta (POS) gratuito y de código abierto para tu negocio.</strong>
   <br>
-  <a href="zafiro.link.web.app"><strong>Visita nuestra página web »</strong></a>
+  <a href="zafiro-link.web.app"><strong>Visita nuestra página web »</strong></a>
   <br><br>
   <a href="https://github.com/anzoategui-oficial/safirolink/issues">Reportar un Bug</a>
   ·
