@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Logo de Zafiro Link" width="150">
+  <img src="banner.png" alt="Logo de Zafiro Link" width="250">
 </p>
 
 <h1 align="center">Zafiro Link</h1>
@@ -14,7 +14,9 @@
   <a href="https://github.com/anzoategui-oficial/safirolink/issues">Sugerir una Característica</a>
 </p>
 
-![Dashboard de Zafiro Link](https://raw.githubusercontent.com/anzoategui-oficial/safirolink-web/main/panel.png)
+<p align="center">
+  <img src="panel.png" alt="Logo de Zafiro Link" width="512">
+</p>
 
 ---
 
